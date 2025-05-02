@@ -25,7 +25,6 @@
 | Feature         | Description                                                |
 |----------------|------------------------------------------------------------ |
 | 🌐 Language Switch | Easily choose source and target languages               |
-| 🎤 Voice Input     | Speak and get translated instantly                      |
 | 🔊 Audio Output    | Hear translations spoken aloud                          |
 | ✨ Clean UI        | Beautiful, intuitive interface with futuristic vibes    |
 | 🧠 Intelligent API | Powered by MyMemory APIs                                |
@@ -37,9 +36,9 @@
 | Layer        | Technology      |
 |--------------|-----------------|
 | 💻 Frontend  | React, CSS      |
-| ⚙️ Backend   | Node.js, Express|
-| 🧠 NLP       | MyMemoryAPI |
-| 🔊 Voice     | Web Speech API / TTS / STT        |
+| ⚙️ Backend   | Javascript      |
+| 🧠 NLP       | MyMemoryAPI     |
+| 🔊 Voice     | TTS / STT       |
 
 ---
 
