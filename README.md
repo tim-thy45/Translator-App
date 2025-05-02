@@ -15,22 +15,21 @@
 > Welcome to Translator-App — a futuristic language translator designed with simplicity, accessibility, and global communication in mind. It offers real-time language translation with support for speech and text input.
 
 - 🌍 Multi-language support
-- 🗣️ Speech-to-text recognition
 - 🔁 Text-to-speech playback
 - ⚡ Fast, responsive, and lightweight
-- 💻 Built using **React** + **Node.js**
+- 💻 Built using **React**
 
 ---
 
 ## 🚀 Features at a Glance
 
 | Feature         | Description                                                |
-|----------------|------------------------------------------------------------|
+|----------------|------------------------------------------------------------ |
 | 🌐 Language Switch | Easily choose source and target languages               |
 | 🎤 Voice Input     | Speak and get translated instantly                      |
 | 🔊 Audio Output    | Hear translations spoken aloud                          |
 | ✨ Clean UI        | Beautiful, intuitive interface with futuristic vibes    |
-| 🧠 Intelligent API | Powered by fast translation APIs                        |
+| 🧠 Intelligent API | Powered by MyMemory APIs                                |
 
 ---
 
@@ -40,7 +39,7 @@
 |--------------|-----------------|
 | 💻 Frontend  | React, CSS      |
 | ⚙️ Backend   | Node.js, Express|
-| 🧠 NLP       | Google Translate API (or similar) |
+| 🧠 NLP       | MyMemoryAPI |
 | 🔊 Voice     | Web Speech API / TTS / STT        |
 
 ---
@@ -48,7 +47,7 @@
 ## 📸 Screenshots
 
 ![sepm_img2](https://github.com/user-attachments/assets/3feb53a2-1627-45c6-9a03-d56545a72534)
----![sepm_img1](https://github.com/user-attachments/assets/37612f36-79e2-4fa0-8e85-9bd2a8bfd6c2)
+![sepm_img1](https://github.com/user-attachments/assets/37612f36-79e2-4fa0-8e85-9bd2a8bfd6c2)
 
 
 ## 🔮 Installation
