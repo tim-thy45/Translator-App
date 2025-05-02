@@ -47,7 +47,8 @@
 
 ## 📸 Screenshots
 
-> *Coming soon – futuristic UI previews here!*
+![sepm_img2](https://github.com/user-attachments/assets/3feb53a2-1627-45c6-9a03-d56545a72534)
+
 
 ---
 
