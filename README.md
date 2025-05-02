@@ -48,9 +48,8 @@
 ## 📸 Screenshots
 
 ![sepm_img2](https://github.com/user-attachments/assets/3feb53a2-1627-45c6-9a03-d56545a72534)
+---![sepm_img1](https://github.com/user-attachments/assets/37612f36-79e2-4fa0-8e85-9bd2a8bfd6c2)
 
-
----
 
 ## 🔮 Installation
 
