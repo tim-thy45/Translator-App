@@ -1,5 +1,4 @@
 <div align="center">
-  <img src="https://img.icons8.com/external-smashingstocks-detailed-outline-smashing-stocks/512/external-language-translation-web-smashingstocks-detailed-outline-smashing-stocks.png" width="100"/>
   <h1 align="center">🌐 Translator-App</h1>
   <h3 align="center"><code>Speak. Type. Translate. Repeat.</code></h3>
   <p align="center">
